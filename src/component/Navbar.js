@@ -8,12 +8,12 @@ function Navbar() {
       id: 1,
       link: 'Home',
     },
-    /*  {
-      id: 2,
-      link: 'About',
-    }, */
     {
       id: 2,
+      link: 'About',
+    },
+    {
+      id: 3,
       link: 'Skill',
     },
     /*  {
@@ -21,7 +21,7 @@ function Navbar() {
       link: 'experience',
     }, */
     {
-      id: 3,
+      id: 4,
       link: 'contact',
     },
   ]

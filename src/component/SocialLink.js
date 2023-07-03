@@ -36,7 +36,7 @@ function SocialLink() {
         </>
       ),
       href: '/resume.pdf',
-      style: 'rounded-bt-md',
+      style: 'rounded-tr-md',
       download: true,
     },
     {
@@ -47,7 +47,7 @@ function SocialLink() {
           <TbBrandGmail size={40} />
         </>
       ),
-      href: 'mailto:sakthisampth@example.com',
+      href: 'mailto:sakthisampth@gmail.com',
       style: 'rounded-tr-md',
     },
   ]

@@ -3,10 +3,10 @@ import React from 'react'
 function Contact() {
   return (
     <div
-      id="3"
+      id="4"
       name="contact"
-      className="w-full h-screen bg-gradient-to-b
-    from-black to-gray-800 p-4 text-white"
+      className="w-full h-screen bg-gradient-to-b from-gray-800
+      to-black text-white "
     >
       <div
         className="flex flex-col p-4 justify-center
@@ -15,7 +15,7 @@ function Contact() {
         <div className="pb-8">
           <p
             className="text-4xl font-bold inline border-b-4
-          border-gray-500 text-yellow-300"
+          border-gray-500 text-red-600"
           >
             Contact
           </p>

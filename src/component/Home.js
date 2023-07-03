@@ -9,8 +9,10 @@ function Home() {
     >
       <div className="max-w-screen-lg mx-auto flex flex-color items-center  justify-center h-full px-4 md:flex-row text-white">
         <div className="flex flex-col justify-center  h-full">
-          <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I'm a <span class="text-green-500">Full Stack Developer</span>
+          <h2 className="text-2xl sm:text-5xl font-bold text-white">
+            <span> I'm a </span>
+
+            <span class="text-green-500">Full Stack Developer</span>
           </h2>
           <p className="text-gray-500 py-4 max-w-md"></p>
           <div>
@@ -26,7 +28,7 @@ function Home() {
             </button>
           </div>
         </div>
-        <div className="inline-flex clip w-full ">
+        <div className="inline-flex clip w-full h-17">
           <img
             src={hero}
             alt="dev-img"
